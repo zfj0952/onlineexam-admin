@@ -59,9 +59,50 @@
 ## 6. 部分演示截图
 
 <p align="center">
-	<img src="http://qiniu.maweitao.top/admin-home.png" alt="Sample">
+	<img src="https://imgchr.com/i/taMuqg" alt="Sample">
 	<p align="center">
     <em>在线考试系统管理员端首页</em>
+  </p>
+  
+  	<img src="https://imgchr.com/i/taMHQf" alt="Sample">
+	<p align="center">
+    <em>在线考试系统管理员端学生管理</em>
+  </p>
+      
+  	<img src="https://imgchr.com/i/talVu8" alt="Sample">
+	<p align="center">
+    <em>在线考试系统管理员端上传学生信息</em>
+  </p>
+  
+  	<img src="https://imgchr.com/i/taQKl6" alt="Sample">
+	<p align="center">
+    <em>在线考试系统管理员端成绩管理</em>
+  </p>
+  
+  	<img src="https://imgchr.com/i/taQTAJ" alt="Sample">
+	<p align="center">
+    <em>在线考试系统管理员端成绩图表</em>
+  </p>
+    
+  	<img src="https://imgchr.com/i/taQzHe" alt="Sample">
+	<p align="center">
+    <em>在线考试系统管理员端教师管理</em>
+  </p>
+    
+  	<img src="https://imgchr.com/i/talBgx" alt="Sample">
+	<p align="center">
+    <em>在线考试系统管理员端科目管理</em>
+  </p>
+  
+      
+  	<img src="https://imgchr.com/i/tal7qS" alt="Sample">
+	<p align="center">
+    <em>在线考试系统管理员端轮播图管理</em>
+  </p>
+      
+  	<img src="https://imgchr.com/i/ta19qU" alt="Sample">
+	<p align="center">
+    <em>在线考试系统管理员端留言管理</em>
   </p>
 </p>
 
