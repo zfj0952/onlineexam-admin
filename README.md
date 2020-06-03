@@ -57,13 +57,13 @@
 **在线考试系统管理员端:** http://maweitao.top/onlineexam-admin
 
 ## 6. 部分演示截图
-![在线考试系统管理员端首页](https://imgchr.com/i/taMuqg)
-![在线考试系统管理员端学生管理](https://imgchr.com/i/taMHQf)
-![在线考试系统管理员端上传学生信息](https://imgchr.com/i/talVu8)
-![在线考试系统管理员端成绩管理](https://imgchr.com/i/taQKl6)
-![在线考试系统管理员端成绩图表](https://imgchr.com/i/taQTAJ)
-![在线考试系统管理员端教师管理](https://imgchr.com/i/taQzHe)
-![在线考试系统管理员端科目管理](https://imgchr.com/i/talBgx)
-![在线考试系统管理员端轮播图管理](https://imgchr.com/i/tal7qS)
-![在线考试系统管理员端留言管理](https://imgchr.com/i/ta19qU)
+![在线考试系统管理员端首页](https://s1.ax1x.com/2020/06/03/taMuqg)
+![在线考试系统管理员端学生管理](https://s1.ax1x.com/2020/06/03/taMHQf)
+![在线考试系统管理员端上传学生信息](https://s1.ax1x.com/2020/06/03/talVu8)
+![在线考试系统管理员端成绩管理](https://s1.ax1x.com/2020/06/03/taQKl6)
+![在线考试系统管理员端成绩图表](https://s1.ax1x.com/2020/06/03/taQTAJ)
+![在线考试系统管理员端教师管理](https://s1.ax1x.com/2020/06/03/taQzHe)
+![在线考试系统管理员端科目管理](https://s1.ax1x.com/2020/06/03/talBgx)
+![在线考试系统管理员端轮播图管理](https://s1.ax1x.com/2020/06/03/tal7qS)
+![在线考试系统管理员端留言管理](https://s1.ax1x.com/2020/06/03/ta19qU)
 
