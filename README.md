@@ -57,69 +57,13 @@
 **在线考试系统管理员端:** http://maweitao.top/onlineexam-admin
 
 ## 6. 部分演示截图
-
-<p align="center">
-	<img src="https://imgchr.com/i/taMuqg" alt="Sample">
-	<p align="center">
-    <em>在线考试系统管理员端首页</em>
-  </p>
-</p>
-
-<p align="center">
-  	<img src="https://imgchr.com/i/taMHQf" alt="Sample">
-	<p align="center">
-    <em>在线考试系统管理员端学生管理</em>
-  </p>
- </p>
-
-<p align="center">     
-  	<img src="https://imgchr.com/i/talVu8" alt="Sample">
-	<p align="center">
-    <em>在线考试系统管理员端上传学生信息</em>
-  </p>
-  </p>
-
-<p align="center">
-  	<img src="https://imgchr.com/i/taQKl6" alt="Sample">
-	<p align="center">
-    <em>在线考试系统管理员端成绩管理</em>
-  </p>
-  </p>
-
-<p align="center">
-  	<img src="https://imgchr.com/i/taQTAJ" alt="Sample">
-	<p align="center">
-    <em>在线考试系统管理员端成绩图表</em>
-  </p>
-   </p>
-
-<p align="center"> 
-  	<img src="https://imgchr.com/i/taQzHe" alt="Sample">
-	<p align="center">
-    <em>在线考试系统管理员端教师管理</em>
-  </p>
-    </p>
-
-<p align="center">
-  	<img src="https://imgchr.com/i/talBgx" alt="Sample">
-	<p align="center">
-    <em>在线考试系统管理员端科目管理</em>
-  </p>
-  </p>
-
-<p align="center">
-      
-  	<img src="https://imgchr.com/i/tal7qS" alt="Sample">
-	<p align="center">
-    <em>在线考试系统管理员端轮播图管理</em>
-  </p>
-   </p>
-
-<p align="center">   
-  	<img src="https://imgchr.com/i/ta19qU" alt="Sample">
-	<p align="center">
-    <em>在线考试系统管理员端留言管理</em>
-  </p>
-</p>
-
+![在线考试系统管理员端首页](https://imgchr.com/i/taMuqg)
+![在线考试系统管理员端学生管理](https://imgchr.com/i/taMHQf)
+![在线考试系统管理员端上传学生信息](https://imgchr.com/i/talVu8)
+![在线考试系统管理员端成绩管理](https://imgchr.com/i/taQKl6)
+![在线考试系统管理员端成绩图表](https://imgchr.com/i/taQTAJ)
+![在线考试系统管理员端教师管理](https://imgchr.com/i/taQzHe)
+![在线考试系统管理员端科目管理](https://imgchr.com/i/talBgx)
+![在线考试系统管理员端轮播图管理](https://imgchr.com/i/tal7qS)
+![在线考试系统管理员端留言管理](https://imgchr.com/i/ta19qU)
 
